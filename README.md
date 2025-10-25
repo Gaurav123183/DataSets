@@ -1,0 +1,1 @@
+A curated collection of datasets used for training and testing AI and machine learning models. This repository includes structured and unstructured data samples prepared for experimentation, analysis, and model evaluation. It’s designed to support reproducible research and development across various AI tasks.
