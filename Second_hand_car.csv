@@ -1,0 +1,61 @@
+car_id,brand,model,year,fuel_type,transmission,owner_type,mileage_kmpl,engine_cc,power_bhp,seats,price_lakhs,km_driven,age,year_sold,location,insurance_type
+1,Maruti Suzuki,Swift,2017,Petrol,Manual,First,20.4,1197,82.0,5,4.2,45000,4,2021,Delhi,Comprehensive
+2,Hyundai,Creta,2015,Diesel,Manual,First,19.3,1396,89.0,5,7.8,52000,6,2021,Mumbai,Comprehensive
+3,Honda,City,2018,Petrol,Automatic,Second,17.8,1497,117.0,5,8.5,30000,3,2021,Bangalore,Third Party
+4,Toyota,Innova,2016,Diesel,Manual,First,13.5,2393,147.0,7,12.5,60000,5,2021,Hyderabad,Comprehensive
+5,Maruti Suzuki,Baleno,2019,Petrol,Manual,First,21.4,1197,82.0,5,5.8,25000,2,2021,Chennai,Comprehensive
+6,Hyundai,i20,2014,Petrol,Manual,Second,18.6,1197,82.0,5,3.5,70000,7,2021,Pune,Third Party
+7,Mahindra,Scorpio,2017,Diesel,Manual,First,15.2,2179,118.0,7,9.2,40000,4,2021,Delhi,Comprehensive
+8,Tata,Nexon,2018,Diesel,Manual,First,21.5,1497,108.0,5,6.5,35000,3,2021,Mumbai,Comprehensive
+9,Maruti Suzuki,Dzire,2020,Petrol,Automatic,First,23.1,1197,88.0,5,7.2,15000,1,2021,Bangalore,Comprehensive
+10,Honda,Amaze,2019,Diesel,Manual,First,27.4,1498,79.0,5,6.8,20000,2,2021,Hyderabad,Comprehensive
+11,Hyundai,Verna,2015,Petrol,Manual,Second,17.1,1591,121.0,5,5.2,55000,6,2021,Chennai,Third Party
+12,Toyota,Fortuner,2018,Diesel,Automatic,First,12.5,2755,174.0,7,28.5,30000,3,2021,Delhi,Comprehensive
+13,Maruti Suzuki,Vitara Brezza,2017,Diesel,Manual,First,24.3,1248,88.0,5,7.5,45000,4,2021,Mumbai,Comprehensive
+14,Ford,EcoSport,2016,Petrol,Manual,Second,15.9,1498,123.0,5,5.8,50000,5,2021,Bangalore,Third Party
+15,Renault,Duster,2014,Diesel,Manual,Second,19.8,1461,108.0,5,4.5,80000,7,2021,Hyderabad,Third Party
+16,Maruti Suzuki,Ertiga,2019,Petrol,Manual,First,19.0,1462,103.0,7,8.2,22000,2,2021,Chennai,Comprehensive
+17,Hyundai,Aura,2020,Diesel,Manual,First,25.4,1186,73.0,5,6.5,12000,1,2021,Delhi,Comprehensive
+18,Kia,Seltos,2020,Petrol,Automatic,First,16.5,1353,113.0,5,12.8,10000,1,2021,Mumbai,Comprehensive
+19,Mahindra,XUV500,2015,Diesel,Manual,Second,15.1,2179,153.0,7,8.5,65000,6,2021,Bangalore,Third Party
+20,Tata,Harrier,2019,Diesel,Manual,First,17.0,1956,168.0,5,13.5,18000,2,2021,Hyderabad,Comprehensive
+21,Maruti Suzuki,Wagon R,2018,Petrol,Manual,First,22.5,998,66.0,5,3.8,40000,3,2021,Chennai,Comprehensive
+22,Honda,WR-V,2017,Diesel,Manual,Second,25.5,1498,98.0,5,6.2,48000,4,2021,Delhi,Third Party
+23,Hyundai,Santro,2019,Petrol,Manual,First,20.3,1086,68.0,5,4.2,28000,2,2021,Mumbai,Comprehensive
+24,Toyota,Glanza,2020,Petrol,Manual,First,21.0,1197,88.0,5,6.8,8000,1,2021,Bangalore,Comprehensive
+25,Maruti Suzuki,S-Cross,2016,Diesel,Manual,Second,22.4,1248,88.0,5,6.5,52000,5,2021,Hyderabad,Third Party
+26,Ford,Figo,2015,Petrol,Manual,Second,18.5,1194,95.0,5,3.2,60000,6,2021,Chennai,Third Party
+27,Volkswagen,Polo,2018,Petrol,Manual,First,17.2,999,108.0,5,5.8,32000,3,2021,Delhi,Comprehensive
+28,Skoda,Rapid,2017,Diesel,Manual,Second,21.0,1498,108.0,5,6.2,45000,4,2021,Mumbai,Third Party
+29,Nissan,Magnite,2021,Petrol,Manual,First,20.0,999,71.0,5,7.5,5000,0,2021,Bangalore,Comprehensive
+30,Kia,Sonet,2021,Diesel,Automatic,First,18.3,1493,113.0,5,11.2,7000,0,2021,Hyderabad,Comprehensive
+31,Maruti Suzuki,Ignis,2019,Petrol,Manual,First,20.9,1197,82.0,5,4.8,25000,2,2021,Chennai,Comprehensive
+32,Hyundai,Venue,2020,Diesel,Manual,First,23.7,1186,73.0,5,8.5,15000,1,2021,Delhi,Comprehensive
+33,Tata,Altroz,2020,Petrol,Manual,First,19.0,1199,85.0,5,6.2,12000,1,2021,Mumbai,Comprehensive
+34,Mahindra,Thar,2021,Diesel,Manual,First,15.2,2184,130.0,4,14.5,8000,0,2021,Bangalore,Comprehensive
+35,Renault,Kwid,2018,Petrol,Manual,Second,22.0,999,67.0,5,2.8,35000,3,2021,Hyderabad,Third Party
+36,Maruti Suzuki,Celerio,2017,Petrol,Manual,First,23.1,998,67.0,5,3.5,42000,4,2021,Chennai,Comprehensive
+37,Honda,Jazz,2016,Petrol,Manual,Second,18.0,1199,89.0,5,4.8,58000,5,2021,Delhi,Third Party
+38,Toyota,Etios,2015,Petrol,Manual,Second,17.6,1496,88.0,5,3.8,70000,6,2021,Mumbai,Third Party
+39,Hyundai,Grand i10,2019,Petrol,Automatic,First,20.4,1086,81.0,5,5.5,20000,2,2021,Bangalore,Comprehensive
+40,Maruti Suzuki,Ciaz,2018,Diesel,Manual,First,26.2,1498,93.0,5,8.2,30000,3,2021,Hyderabad,Comprehensive
+41,BMW,3 Series,2016,Petrol,Automatic,Second,15.2,1998,181.0,5,18.5,40000,5,2021,Delhi,Comprehensive
+42,Mercedes-Benz,C-Class,2017,Diesel,Automatic,Second,20.6,2143,168.0,5,22.8,35000,4,2021,Mumbai,Comprehensive
+43,Audi,A4,2015,Petrol,Automatic,Second,14.8,1798,167.0,5,16.2,55000,6,2021,Bangalore,Comprehensive
+44,Volvo,XC40,2019,Diesel,Automatic,First,17.8,1969,187.0,5,28.5,18000,2,2021,Hyderabad,Comprehensive
+45,Jaguar,XE,2018,Diesel,Automatic,First,20.1,1999,178.0,5,25.2,22000,3,2021,Chennai,Comprehensive
+46,Land Rover,Discovery Sport,2017,Diesel,Automatic,Second,16.5,1999,177.0,7,22.5,45000,4,2021,Delhi,Comprehensive
+47,Porsche,Macan,2019,Petrol,Automatic,First,12.3,1984,245.0,5,45.8,15000,2,2021,Mumbai,Comprehensive
+48,Lexus,ES,2020,Hybrid,Automatic,First,22.0,2487,215.0,5,42.5,8000,1,2021,Bangalore,Comprehensive
+49,MINI,Cooper,2016,Petrol,Manual,Second,18.9,1499,114.0,4,12.8,32000,5,2021,Hyderabad,Third Party
+50,Jeep,Compass,2018,Diesel,Manual,First,17.1,1956,170.0,5,14.2,28000,3,2021,Chennai,Comprehensive
+51,Maruti Suzuki,Swift,2015,Diesel,Manual,Second,25.2,1248,74.0,5,4.5,65000,6,2021,Delhi,Third Party
+52,Hyundai,Creta,2019,Petrol,Automatic,First,16.8,1353,113.0,5,11.5,20000,2,2021,Mumbai,Comprehensive
+53,Honda,City,2016,Diesel,Manual,Second,25.6,1498,98.0,5,7.2,50000,5,2021,Bangalore,Third Party
+54,Toyota,Innova,2014,Diesel,Manual,Second,12.8,2393,147.0,7,9.8,80000,7,2021,Hyderabad,Third Party
+55,Maruti Suzuki,Baleno,2017,Petrol,Manual,Second,21.4,1197,82.0,5,4.8,48000,4,2021,Chennai,Third Party
+56,Hyundai,i20,2020,Petrol,Manual,First,20.0,1197,82.0,5,6.8,10000,1,2021,Delhi,Comprehensive
+57,Mahindra,Scorpio,2015,Diesel,Manual,Second,14.8,2179,118.0,7,7.2,70000,6,2021,Mumbai,Third Party
+58,Tata,Nexon,2020,Petrol,Manual,First,17.0,1199,118.0,5,7.5,12000,1,2021,Bangalore,Comprehensive
+59,Maruti Suzuki,Dzire,2018,Petrol,Manual,Second,22.0,1197,88.0,5,5.5,40000,3,2021,Hyderabad,Third Party
+60,Honda,Amaze,2017,Petrol,Manual,Second,18.6,1199,88.0,5,5.2,45000,4,2021,Chennai,Third Party
