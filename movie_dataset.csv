@@ -1,0 +1,201 @@
+user_id,movie_title,genre,rating,age,recommendation_score,watch_time_minutes
+1,Inception,Sci-Fi,4.5,28,0.92,148
+2,The Shawshank Redemption,Drama,5.0,35,0.98,142
+3,The Dark Knight,Action,4.8,22,0.95,152
+4,Pulp Fiction,Crime,4.7,30,0.93,154
+5,Forrest Gump,Drama,4.6,25,0.91,142
+6,The Matrix,Sci-Fi,4.9,29,0.96,136
+7,Goodfellas,Crime,4.4,33,0.89,146
+8,The Godfather,Crime,5.0,40,0.99,175
+9,Fight Club,Drama,4.7,26,0.94,139
+10,The Silence of the Lambs,Thriller,4.8,31,0.95,118
+11,Interstellar,Sci-Fi,4.6,27,0.92,169
+12,Parasite,Thriller,4.9,24,0.97,132
+13,The Departed,Crime,4.5,32,0.90,151
+14,Gladiator,Action,4.7,28,0.93,155
+15,The Prestige,Mystery,4.8,26,0.95,130
+16,Se7en,Thriller,4.6,29,0.91,127
+17,The Usual Suspects,Mystery,4.7,34,0.94,106
+18,Leon: The Professional,Action,4.5,23,0.89,110
+19,Back to the Future,Adventure,4.8,20,0.96,116
+20,Whiplash,Drama,4.9,25,0.98,107
+21,Avengers: Endgame,Action,4.7,19,0.93,181
+22,Joker,Drama,4.6,30,0.91,122
+23,The Social Network,Drama,4.5,22,0.89,120
+24,La La Land,Musical,4.4,24,0.88,128
+25,Get Out,Horror,4.7,26,0.94,104
+26,Mad Max: Fury Road,Action,4.8,27,0.96,120
+27,Django Unchained,Western,4.6,31,0.92,165
+28,The Wolf of Wall Street,Comedy,4.5,28,0.90,180
+29,Gone Girl,Thriller,4.7,29,0.94,149
+30,The Revenant,Adventure,4.4,32,0.88,156
+31,Arrival,Sci-Fi,4.6,26,0.92,116
+32,Blade Runner 2049,Sci-Fi,4.5,30,0.90,164
+33,Deadpool,Comedy,4.3,21,0.86,108
+34,John Wick,Action,4.7,25,0.94,101
+35,The Grand Budapest Hotel,Comedy,4.4,27,0.88,99
+36,Birdman,Drama,4.5,33,0.90,119
+37,The Shape of Water,Romance,4.3,28,0.86,123
+38,Three Billboards,Drama,4.6,35,0.92,115
+39,Baby Driver,Action,4.4,23,0.88,113
+40,Logan,Action,4.7,26,0.94,137
+41,Spider-Man: Into the Spider-Verse,Animation,4.8,18,0.96,117
+42,Black Panther,Action,4.6,22,0.92,134
+43,A Quiet Place,Horror,4.5,24,0.90,90
+44,Bohemian Rhapsody,Biography,4.4,30,0.88,134
+45,Once Upon a Time in Hollywood,Comedy,4.3,32,0.86,161
+46,Knives Out,Mystery,4.7,29,0.94,130
+47,Joker,Drama,4.6,31,0.92,122
+48,1917,War,4.8,28,0.96,119
+49,Parasite,Thriller,4.9,26,0.98,132
+50,The Irishman,Crime,4.3,45,0.86,209
+51,Tenet,Sci-Fi,4.2,27,0.84,150
+52,Soul,Animation,4.7,20,0.94,100
+53,The Father,Drama,4.8,38,0.96,97
+54,Nomadland,Drama,4.5,34,0.90,107
+55,Dune,Sci-Fi,4.6,25,0.92,155
+56,No Time to Die,Action,4.4,30,0.88,163
+57,The Batman,Action,4.7,23,0.94,176
+58,Everything Everywhere All at Once,Sci-Fi,4.9,26,0.98,139
+59,Top Gun: Maverick,Action,4.8,28,0.96,131
+60,Elvis,Biography,4.3,32,0.86,159
+61,RRR,Action,4.8,24,0.96,187
+62,The Menu,Thriller,4.5,29,0.90,107
+63,Glass Onion,Mystery,4.6,31,0.92,139
+64,Avatar: The Way of Water,Action,4.7,22,0.94,192
+65,Puss in Boots: The Last Wish,Animation,4.8,16,0.96,102
+66,John Wick: Chapter 4,Action,4.9,27,0.98,169
+67,Oppenheimer,Biography,4.8,35,0.96,180
+68,Barbie,Comedy,4.5,21,0.90,114
+69,Spider-Man: Across the Spider-Verse,Animation,4.9,19,0.98,140
+70,The Killer,Thriller,4.4,33,0.88,118
+71,The Holdovers,Drama,4.6,40,0.92,133
+72,American Fiction,Comedy,4.5,36,0.90,117
+73,Star Wars: A New Hope,Sci-Fi,4.8,25,0.96,121
+74,Raiders of the Lost Ark,Adventure,4.7,30,0.94,115
+75,The Terminator,Sci-Fi,4.6,28,0.92,107
+76,Die Hard,Action,4.8,35,0.96,132
+77,Groundhog Day,Comedy,4.5,26,0.90,101
+78,The Sixth Sense,Thriller,4.7,29,0.94,107
+79,The Truman Show,Comedy,4.6,24,0.92,103
+80,The Lion King,Animation,4.9,15,0.98,88
+81,Toy Story,Animation,4.8,12,0.96,81
+82,Finding Nemo,Animation,4.7,14,0.94,100
+83,The Incredibles,Animation,4.8,16,0.96,115
+84,Shrek,Animation,4.6,18,0.92,90
+85,Monsters, Inc.,Animation,4.7,13,0.94,92
+86,Up,Animation,4.8,20,0.96,96
+87,WALL-E,Animation,4.9,22,0.98,98
+88,Frozen,Animation,4.5,10,0.90,102
+89,Zootopia,Animation,4.7,15,0.94,108
+90,Coco,Animation,4.8,17,0.96,105
+91,Your Name,Animation,4.9,19,0.98,106
+92,Spirited Away,Animation,4.9,21,0.98,125
+93,Princess Mononoke,Animation,4.8,23,0.96,134
+94,Akira,Animation,4.7,25,0.94,124
+95,Ghost in the Shell,Animation,4.6,27,0.92,83
+96,The Shining,Horror,4.8,30,0.96,146
+97,The Exorcist,Horror,4.7,32,0.94,122
+98,Hereditary,Horror,4.5,28,0.90,127
+99,The Conjuring,Horror,4.4,24,0.88,112
+100,A Nightmare on Elm Street,Horror,4.3,26,0.86,91
+101,The Notebook,Romance,4.2,22,0.84,123
+102,Titanic,Romance,4.8,20,0.96,195
+103,Pride & Prejudice,Romance,4.6,25,0.92,127
+104,La La Land,Musical,4.4,23,0.88,128
+105,Casablanca,Romance,4.9,45,0.98,102
+106,Before Sunrise,Romance,4.7,28,0.94,101
+107,Eternal Sunshine of the Spotless Mind,Romance,4.8,26,0.96,108
+108,Call Me by Your Name,Romance,4.5,24,0.90,132
+109,Blue Valentine,Romance,4.3,30,0.86,112
+110,The Fault in Our Stars,Romance,4.1,19,0.82,126
+111,The Big Short,Drama,4.5,33,0.90,130
+112,Spotlight,Drama,4.6,35,0.92,128
+113,The Post,Drama,4.3,40,0.86,116
+114,The Trial of the Chicago 7,Drama,4.4,38,0.88,129
+115,Judas and the Black Messiah,Drama,4.7,32,0.94,126
+116,Minari,Drama,4.5,34,0.90,115
+117,Promising Young Woman,Thriller,4.6,29,0.92,113
+118,The Power of the Dog,Drama,4.3,42,0.86,126
+119,CODA,Drama,4.8,30,0.96,111
+120,Drive My Car,Drama,4.7,36,0.94,179
+121,The French Dispatch,Comedy,4.2,28,0.84,108
+122,Licorice Pizza,Comedy,4.3,26,0.86,133
+123,The Banshees of Inisherin,Comedy,4.6,32,0.92,114
+124,Everything Everywhere All at Once,Comedy,4.9,27,0.98,139
+125,Triangle of Sadness,Comedy,4.4,31,0.88,147
+126,The Fabelmans,Drama,4.5,35,0.90,151
+127,Women Talking,Drama,4.6,38,0.92,104
+128,Tár,Drama,4.7,40,0.94,158
+129,All Quiet on the Western Front,War,4.8,33,0.96,148
+130,The Whale,Drama,4.5,30,0.90,117
+131,Black Adam,Action,4.1,22,0.82,125
+132,Shazam! Fury of the Gods,Action,4.0,20,0.80,130
+133,Ant-Man and the Wasp: Quantumania,Action,4.2,21,0.84,124
+134,Guardians of the Galaxy Vol. 3,Action,4.7,23,0.94,150
+135,The Flash,Action,4.1,24,0.82,144
+136,Indiana Jones and the Dial of Destiny,Action,4.3,45,0.86,154
+137,The Little Mermaid,Animation,4.4,15,0.88,135
+138,Elemental,Animation,4.5,16,0.90,102
+139,Wish,Animation,4.3,14,0.86,95
+140,The Super Mario Bros. Movie,Animation,4.6,12,0.92,92
+141,Transformers: Rise of the Beasts,Action,4.2,18,0.84,127
+142,Fast X,Action,4.1,25,0.82,141
+143,The Marvels,Action,4.0,21,0.80,105
+144,Blue Beetle,Action,4.3,23,0.86,127
+145,Gran Turismo,Action,4.4,26,0.88,134
+146,The Creator,Sci-Fi,4.5,28,0.90,133
+147,Aquaman and the Lost Kingdom,Action,4.2,24,0.84,124
+148,The Nun II,Horror,4.1,26,0.82,110
+149,Saw X,Horror,4.3,29,0.86,118
+150,Five Nights at Freddy's,Horror,4.0,19,0.80,110
+151,Thanksgiving,Horror,4.2,27,0.84,106
+152,The Exorcist: Believer,Horror,4.1,32,0.82,111
+153,The Hunger Games: The Ballad of Songbirds & Snakes,Action,4.4,22,0.88,157
+154,Wonka,Musical,4.6,16,0.92,116
+155,The Color Purple,Musical,4.5,35,0.90,140
+156,Mean Girls,Comedy,4.3,20,0.86,112
+157,Anyone But You,Comedy,4.2,23,0.84,104
+158,The Beekeeper,Action,4.4,30,0.88,105
+159,Argylle,Action,4.1,28,0.82,139
+160,Madame Web,Action,3.9,25,0.78,114
+161,Bob Marley: One Love,Biography,4.3,32,0.86,107
+162,Ordinary Angels,Drama,4.5,38,0.90,118
+163,Cabrini,Drama,4.4,40,0.88,142
+164,Imaginary,Horror,4.0,26,0.80,104
+165,Kung Fu Panda 4,Animation,4.5,15,0.90,94
+166,Ghostbusters: Frozen Empire,Comedy,4.2,24,0.84,115
+167,Godzilla x Kong: The New Empire,Action,4.3,22,0.86,115
+168,Monkey Man,Action,4.6,28,0.92,121
+169,The First Omen,Horror,4.4,30,0.88,120
+170,Civil War,Action,4.7,33,0.94,109
+171,The Fall Guy,Action,4.5,27,0.90,126
+172,Kingdom of the Planet of the Apes,Sci-Fi,4.6,25,0.92,145
+173,IF,Animation,4.4,18,0.88,104
+174,Furiosa: A Mad Max Saga,Action,4.8,29,0.96,148
+175,The Garfield Movie,Animation,4.2,12,0.84,101
+176,Bad Boys: Ride or Die,Action,4.5,26,0.90,115
+177,Inside Out 2,Animation,4.8,14,0.96,96
+178,A Quiet Place: Day One,Horror,4.6,27,0.92,100
+179,Horizon: An American Saga,Western,4.4,35,0.88,181
+180,Twisters,Action,4.5,24,0.90,122
+181,Deadpool & Wolverine,Action,4.9,26,0.98,127
+182,Alien: Romulus,Horror,4.7,28,0.94,119
+183,Beetlejuice Beetlejuice,Comedy,4.6,30,0.92,115
+184,Joker: Folie à Deux,Musical,4.8,32,0.96,138
+185,Venom: The Last Dance,Action,4.5,25,0.90,135
+186,Gladiator II,Action,4.7,34,0.94,148
+187,Mufasa: The Lion King,Animation,4.6,16,0.92,128
+188,Sonic the Hedgehog 3,Action,4.4,19,0.88,105
+189,The Karate Kid,Action,4.5,22,0.90,126
+190,Moana 2,Animation,4.7,15,0.94,100
+191,Wicked,Musical,4.8,20,0.96,157
+192,Nosferatu,Horror,4.7,28,0.94,112
+193,Red One,Action,4.3,24,0.86,120
+194,The Lord of the Rings: The War of the Rohirrim,Animation,4.9,30,0.98,130
+195,Mickey 17,Sci-Fi,4.6,26,0.92,135
+196,Speak No Evil,Thriller,4.4,29,0.88,98
+197,A Complete Unknown,Biography,4.7,35,0.94,125
+198,The Return,Thriller,4.5,31,0.90,118
+199,The Amateur,Action,4.3,27,0.86,110
+200,Project Hail Mary,Sci-Fi,4.8,28,0.96,140
