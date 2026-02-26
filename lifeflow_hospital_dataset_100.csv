@@ -1,0 +1,101 @@
+hospital_id,hospital_name,city_or_area,stroke_ready,cardiac_ready,trauma_ready,respiratory_ready,general_emergency,has_icu,has_ventilator,has_operation_theatre,has_ct_scan,has_cath_lab,icu_beds_available,general_beds_available,ventilators_available,er_wait_minutes,hospital_load_percent,specialist_on_duty
+H001,Metro Neuro Center,Zone A,1,0,0,0,1,1,1,1,1,0,3,12,2,8,55,1
+H002,City Heart Hospital,Zone A,0,1,0,0,1,1,1,1,0,1,2,10,2,12,68,1
+H003,Trauma Care Institute,Zone B,0,0,1,0,1,1,1,1,1,0,4,15,2,6,50,1
+H004,Respiratory Clinic,Zone B,0,0,0,1,1,1,1,0,0,0,1,8,3,18,82,1
+H005,General Hospital Central,Zone C,1,1,1,1,1,1,1,1,1,1,5,25,4,5,40,1
+H006,Sunrise Medical Center,Zone A,1,1,0,0,1,1,1,1,1,1,2,18,2,9,60,1
+H007,LifeCare Multispeciality,Zone C,1,1,1,1,1,1,1,1,1,1,6,22,5,7,48,1
+H008,Green Valley Hospital,Zone D,0,1,0,1,1,1,1,0,1,0,1,14,2,16,75,1
+H009,Hope Trauma Center,Zone B,0,0,1,0,1,1,1,1,1,0,3,11,2,10,62,1
+H010,Wellness General Hospital,Zone D,0,0,0,1,1,1,1,0,0,0,1,20,3,14,70,1
+H011,City Neuro Hospital,Zone A,1,0,0,0,1,1,1,1,1,0,4,16,3,6,52,1
+H012,CardioPlus Hospital,Zone C,0,1,0,0,1,1,1,1,0,1,3,13,2,8,58,1
+H013,Emergency Care Unit,Zone B,0,0,1,1,1,1,1,1,1,0,2,9,1,12,65,1
+H014,AirCare Respiratory,Zone D,0,0,0,1,1,1,1,0,0,0,2,7,3,20,85,1
+H015,Central Government Hospital,Zone C,1,1,1,1,1,1,1,1,1,1,8,30,6,4,35,1
+H016,Shree Hospital,Zone A,0,1,0,0,1,1,1,1,0,1,2,17,2,11,63,1
+H017,Apollo Care Center,Zone C,1,1,1,1,1,1,1,1,1,1,7,24,5,6,46,1
+H018,Sanjeevani Trauma Care,Zone B,0,0,1,0,1,1,1,1,1,0,3,10,2,9,59,1
+H019,Oxygen Life Hospital,Zone D,0,0,0,1,1,1,1,0,0,0,1,12,3,17,78,1
+H020,Urban Health Center,Zone B,0,0,0,1,1,1,1,0,0,0,1,21,3,13,72,1
+H021,Neuro Specialist Clinic,Zone A,1,0,0,0,1,1,1,0,1,0,2,8,2,10,64,1
+H022,Cardiac Emergency Hospital,Zone C,0,1,0,0,1,1,1,1,0,1,3,14,2,7,57,1
+H023,Trauma Relief Hospital,Zone B,0,0,1,0,1,1,1,1,1,0,4,19,2,8,61,1
+H024,BreathEasy Clinic,Zone D,0,0,0,1,1,1,1,0,0,0,2,15,3,19,83,1
+H025,Prime Multicare Hospital,Zone C,1,1,1,1,1,1,1,1,1,1,6,28,5,5,42,1
+H026,Lotus Hospital,Zone A,1,0,0,0,1,1,1,1,1,0,3,18,2,7,53,1
+H027,HeartLife Institute,Zone C,0,1,0,0,1,1,1,1,0,1,4,16,2,9,60,1
+H028,Accident Care Center,Zone B,0,0,1,0,1,1,1,1,1,0,5,21,3,6,49,1
+H029,LungCare Hospital,Zone D,0,0,0,1,1,1,1,0,0,0,2,13,3,18,80,1
+H030,Community General Hospital,Zone B,0,0,0,1,1,1,1,0,0,0,1,23,4,12,69,1
+H031,NeuroAid Hospital,Zone A,1,0,0,0,1,1,1,1,1,0,3,11,2,8,58,1
+H032,Advanced Cardiac Center,Zone C,0,1,0,0,1,1,1,1,0,1,4,20,2,6,50,1
+H033,Highway Trauma Hospital,Zone B,0,0,1,0,1,1,1,1,1,0,5,17,3,7,54,1
+H034,Respira Clinic,Zone D,0,0,0,1,1,1,1,0,0,0,2,9,3,16,77,1
+H035,Mega Care Hospital,Zone C,1,1,1,1,1,1,1,1,1,1,9,35,7,4,33,1
+H036,Sai Hospital,Zone A,0,1,0,0,1,1,1,1,0,1,2,14,2,10,66,1
+H037,Global Multispeciality,Zone C,1,1,1,1,1,1,1,1,1,1,8,26,6,5,45,1
+H038,Emergency Trauma Unit,Zone B,0,0,1,0,1,1,1,1,1,0,4,18,3,9,62,1
+H039,OxyCare Hospital,Zone D,0,0,0,1,1,1,1,0,0,0,1,11,3,17,79,1
+H040,Public Health Hospital,Zone B,0,0,0,1,1,1,1,0,0,0,1,22,4,13,71,1
+H041,BrainCare Center,Zone A,1,0,0,0,1,1,1,1,1,0,3,15,2,8,59,1
+H042,HeartBeat Hospital,Zone C,0,1,0,0,1,1,1,1,0,1,3,19,2,7,56,1
+H043,City Trauma Unit,Zone B,0,0,1,0,1,1,1,1,1,0,5,16,3,9,63,1
+H044,AirFlow Respiratory,Zone D,0,0,0,1,1,1,1,0,0,0,2,10,3,18,82,1
+H045,National General Hospital,Zone C,1,1,1,1,1,1,1,1,1,1,10,40,8,3,30,1
+H046,Shivam Hospital,Zone A,1,0,0,0,1,1,1,1,1,0,2,13,2,9,61,1
+H047,CardioLife Center,Zone C,0,1,0,0,1,1,1,1,0,1,4,21,2,6,48,1
+H048,Road Accident Care,Zone B,0,0,1,0,1,1,1,1,1,0,6,20,3,7,52,1
+H049,Lung Support Hospital,Zone D,0,0,0,1,1,1,1,0,0,0,2,12,3,16,78,1
+H050,Urban Community Hospital,Zone B,0,0,0,1,1,1,1,0,0,0,1,24,4,14,73,1
+H051,NeuroCare Plus,Zone A,1,0,0,0,1,1,1,1,1,0,3,17,2,8,57,1
+H052,HeartAid Hospital,Zone C,0,1,0,0,1,1,1,1,0,1,4,22,2,6,49,1
+H053,Emergency Trauma Hub,Zone B,0,0,1,0,1,1,1,1,1,0,5,18,3,7,53,1
+H054,BreathWell Clinic,Zone D,0,0,0,1,1,1,1,0,0,0,2,9,3,19,84,1
+H055,Central Multispeciality,Zone C,1,1,1,1,1,1,1,1,1,1,7,28,6,5,41,1
+H056,Spectrum Hospital,Zone A,1,1,0,0,1,1,1,1,1,1,3,16,2,9,60,1
+H057,HeartCare Institute,Zone C,0,1,0,0,1,1,1,1,0,1,4,18,2,8,58,1
+H058,Trauma Emergency Center,Zone B,0,0,1,0,1,1,1,1,1,0,6,23,3,6,47,1
+H059,Oxygen Support Hospital,Zone D,0,0,0,1,1,1,1,0,0,0,2,14,3,17,81,1
+H060,Regional General Hospital,Zone B,0,0,0,1,1,1,1,0,0,0,1,26,5,12,68,1
+H061,NeuroAid Plus,Zone A,1,0,0,0,1,1,1,1,1,0,3,12,2,9,62,1
+H062,Advanced Heart Center,Zone C,0,1,0,0,1,1,1,1,0,1,5,20,2,7,55,1
+H063,Highway Trauma Care,Zone B,0,0,1,0,1,1,1,1,1,0,4,19,3,8,60,1
+H064,RespiraLife Clinic,Zone D,0,0,0,1,1,1,1,0,0,0,2,11,3,18,83,1
+H065,Mega Multicare Hospital,Zone C,1,1,1,1,1,1,1,1,1,1,9,32,7,4,36,1
+H066,Sai Care Hospital,Zone A,0,1,0,0,1,1,1,1,0,1,3,14,2,10,67,1
+H067,Global Care Center,Zone C,1,1,1,1,1,1,1,1,1,1,8,27,6,5,44,1
+H068,Emergency Relief Hospital,Zone B,0,0,1,0,1,1,1,1,1,0,5,16,3,9,63,1
+H069,OxyPlus Hospital,Zone D,0,0,0,1,1,1,1,0,0,0,2,13,3,16,79,1
+H070,Public Care Hospital,Zone B,0,0,0,1,1,1,1,0,0,0,1,21,4,13,72,1
+H071,BrainCare Plus,Zone A,1,0,0,0,1,1,1,1,1,0,4,15,2,8,59,1
+H072,HeartBeat Plus,Zone C,0,1,0,0,1,1,1,1,0,1,3,18,2,7,57,1
+H073,City Trauma Care,Zone B,0,0,1,0,1,1,1,1,1,0,6,20,3,6,50,1
+H074,AirFlow Plus,Zone D,0,0,0,1,1,1,1,0,0,0,2,10,3,19,82,1
+H075,National Multicare Hospital,Zone C,1,1,1,1,1,1,1,1,1,1,10,38,8,3,31,1
+H076,Shivam Care Hospital,Zone A,1,0,0,0,1,1,1,1,1,0,3,13,2,9,60,1
+H077,CardioLife Plus,Zone C,0,1,0,0,1,1,1,1,0,1,4,22,2,6,48,1
+H078,Road Care Trauma,Zone B,0,0,1,0,1,1,1,1,1,0,5,17,3,7,54,1
+H079,Lung Support Plus,Zone D,0,0,0,1,1,1,1,0,0,0,2,12,3,18,80,1
+H080,Urban Health Plus,Zone B,0,0,0,1,1,1,1,0,0,0,1,23,4,14,73,1
+H081,NeuroCare Elite,Zone A,1,0,0,0,1,1,1,1,1,0,4,16,2,8,58,1
+H082,HeartAid Elite,Zone C,0,1,0,0,1,1,1,1,0,1,5,21,2,7,56,1
+H083,Emergency Trauma Elite,Zone B,0,0,1,0,1,1,1,1,1,0,6,19,3,6,49,1
+H084,BreathWell Elite,Zone D,0,0,0,1,1,1,1,0,0,0,2,11,3,19,83,1
+H085,Central Care Elite,Zone C,1,1,1,1,1,1,1,1,1,1,9,34,7,4,37,1
+H086,Spectrum Care Hospital,Zone A,1,1,0,0,1,1,1,1,1,1,3,18,2,9,61,1
+H087,HeartCare Elite,Zone C,0,1,0,0,1,1,1,1,0,1,4,20,2,8,59,1
+H088,Trauma Emergency Elite,Zone B,0,0,1,0,1,1,1,1,1,0,5,22,3,7,52,1
+H089,Oxygen Support Elite,Zone D,0,0,0,1,1,1,1,0,0,0,2,14,3,17,81,1
+H090,Regional Care Hospital,Zone B,0,0,0,1,1,1,1,0,0,0,1,25,5,12,69,1
+H091,NeuroAid Elite,Zone A,1,0,0,0,1,1,1,1,1,0,4,15,2,8,60,1
+H092,Advanced Heart Elite,Zone C,0,1,0,0,1,1,1,1,0,1,5,19,2,7,55,1
+H093,Highway Trauma Elite,Zone B,0,0,1,0,1,1,1,1,1,0,6,18,3,8,62,1
+H094,RespiraLife Elite,Zone D,0,0,0,1,1,1,1,0,0,0,2,12,3,18,82,1
+H095,Mega Multicare Elite,Zone C,1,1,1,1,1,1,1,1,1,1,10,36,8,3,34,1
+H096,Sai Care Elite,Zone A,0,1,0,0,1,1,1,1,0,1,3,17,2,10,66,1
+H097,Global Care Elite,Zone C,1,1,1,1,1,1,1,1,1,1,8,29,6,5,45,1
+H098,Emergency Relief Elite,Zone B,0,0,1,0,1,1,1,1,1,0,5,16,3,9,63,1
+H099,OxyPlus Elite,Zone D,0,0,0,1,1,1,1,0,0,0,2,13,3,17,79,1
+H100,Public Care Elite,Zone B,0,0,0,1,1,1,1,0,0,0,1,24,4,13,71,1
